@@ -204,7 +204,7 @@ interface Landmark {
 const landmarks: Landmark[] = [
   { nama: 'TB MALANG SARI', lat: -7.0792397, lng: 107.7933744 },
   { nama: 'TB SUKA RIZKY', lat: -7.0960075, lng: 107.7625634 },
-  { nama: 'TB RESYA PUTRA', lat: -7.129138, lng: 107.6184229 },
+  { nama: 'TB RESYA PUTRA', lat: -7.0989157, lng: 107.7043241 },
 ]
 
 function createLandmarkIcon() {
