@@ -75,7 +75,7 @@ const cpbData: CPBData[] = [
   {
     no: 2, nama: 'LALA RIJALDI', jenisKelamin: 'L', nik: '3204350202811001',
     alamat: 'KP. WALAHIR RT 003 RW 003', desa: 'LOA', kecamatan: 'PASEH',
-    kabupaten: 'BANDUNG', status: 'LOLOS', tahap: 'IV', tanggal: '10 Mei 2026',
+    kabupaten: 'BANDUNG', status: 'PENGGANTI', tahap: 'IV', tanggal: '10 Mei 2026',
     lat: -7.092021, lng: 107.79952,
   },
   {
